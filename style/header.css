@@ -1,0 +1,26 @@
+header{
+    height: 80px;
+    /* background-color: green; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+/* Logo */
+
+/* Pages */
+.pages{
+    display: flex;
+    flex-direction: row;
+}
+
+.pages p{
+    margin-left: 20px;
+    color: hsl(236, 13%, 42%)
+}
+
+.pages p:hover{
+    color: hsl(35, 77%, 62%);
+}
