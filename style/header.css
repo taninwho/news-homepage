@@ -5,7 +5,6 @@ header{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    margin-top: 40px;
 }
 
 /* Logo */
@@ -18,9 +17,10 @@ header{
 
 .pages p{
     margin-left: 20px;
-    color: hsl(236, 13%, 42%)
+    color: hsl(236, 13%, 42%);
+    transition: ease 0.15s;
 }
 
 .pages p:hover{
-    color: hsl(35, 77%, 62%);
+    color: hsl(5, 85%, 63%);
 }
