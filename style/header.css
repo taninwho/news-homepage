@@ -1,5 +1,5 @@
 header{
-    height: 80px;
+    height: 6rem;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -15,7 +15,7 @@ header{
 }
 
 .pages p{
-    margin-left: 20px;
+    margin-left: 2rem;
     color: hsl(236, 13%, 42%);
     transition: ease 0.15s;
 }
